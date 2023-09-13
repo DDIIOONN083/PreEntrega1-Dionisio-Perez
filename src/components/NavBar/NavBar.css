@@ -1,0 +1,13 @@
+/**
+ * @Author: Your name
+ * @Date:   2023-09-12 22:16:05
+ * @Last Modified by:   Your name
+ * @Last Modified time: 2023-09-13 11:55:32
+ */
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
+.box {
+   display: flex;
+ }
+
+ 
